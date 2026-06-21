@@ -43,5 +43,5 @@ This project pulls 5 years of historical AAPL stock data and analyzes it to answ
 
 ## File
 
-- `Stock_Market_Analysis__(AAPL)_.ipynb` — full notebook with code, charts, and analysis
+- `Stock_Market_Analysis__(AAPL).ipynb` — full notebook with code, charts, and analysis
 - `AAPL_2020_2025.csv` — raw price data used in the analysis
